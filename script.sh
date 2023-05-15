@@ -140,7 +140,6 @@ systemctl enable badvpn
 systemctl start badvpn
 systemctl status badvpn --no-pager
 
-
 echo -e "${CYAN}=============================${RESET}"
 echo -e "${RED}Adding Following Options${RESET}"
 echo -e "${CYAN}=============================${RESET}"
@@ -149,7 +148,7 @@ echo "/usr/sbin/nologin" | sudo tee -a /etc/shells
 
 
 echo -e "${CYAN}=============================${RESET}"
-echo -e "${RED}Create Users: ${RESET}"
+echo -e "${RED}Create Users (You Need to Do This Manually): ${RESET}"
 echo -e "${YELLOW}Setup Users using following commands: ${RESET}"
 echo -e "${YELLOW}useradd -M [User Name] -s /bin/false${RESET}"
 echo -e "${YELLOW}passwd [User Name]${RESET}"
