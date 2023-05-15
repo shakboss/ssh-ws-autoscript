@@ -5,7 +5,7 @@ This script automate the process of installing SSH Websocket Server on Your Ubun
 
 # Requirment
 * Ubuntu 20.04 VPS
-* cloudflare domain pointing to your VPS Ip
+* Cloudflare domain pointing to your VPS Ip
 
 # Command Install
 Copy this code & paste in your vps terminal
