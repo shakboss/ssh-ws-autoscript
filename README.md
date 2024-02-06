@@ -13,7 +13,7 @@ Visit Here: https://notes.lalantha.com/s/-NFhBCUHE
 # Command Install
 Copy this code & paste in your vps terminal
 ```
-wget -q https://raw.githubusercontent.com/lalantham/ssh-ws-autoscript/main/script.sh.x && chmod +x script.sh.x && ./script.sh.x
+wget -q https://raw.githubusercontent.com/shakboss/ssh-ws-autoscript/main/script.sh && chmod +x script.sh. && ./script.sh
 ```
 
 # Contact
